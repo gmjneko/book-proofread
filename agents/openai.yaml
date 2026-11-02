@@ -1,0 +1,3 @@
+interface:
+  display_name: "书稿审校"
+  short_description: "校验书稿，逐小节检查 DOCX 书稿的严重语病、错别字及文字编辑问题"
